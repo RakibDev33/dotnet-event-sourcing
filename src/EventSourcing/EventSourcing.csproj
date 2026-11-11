@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Description>Minimal event sourcing building blocks: aggregates, an event store contract with optimistic concurrency, and catch-up projections.</Description>
+  </PropertyGroup>
+
+</Project>
